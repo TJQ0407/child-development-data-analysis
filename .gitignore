@@ -1,0 +1,20 @@
+# R
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# macOS
+.DS_Store
+
+# Sensitive/raw data
+*.sav
+*.dta
+*.xlsx
+*.xls
+*.csv
+!data/example_data.csv
+
+# Temporary files
+*.tmp
+*.log
